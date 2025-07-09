@@ -1,2 +1,4 @@
 # Azure-Bilderkennung-und-MLDevOps
-Streamlit App zur Bilderkennung eines Kassenbons POC und Assignment über MLDevOps
+POC: Streamlit App zur Bilderkennung eines Kassenbons 
+Assignment über MLDevOps
+Anleitung RAG in Azure 
